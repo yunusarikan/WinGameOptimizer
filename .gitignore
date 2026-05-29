@@ -1,0 +1,19 @@
+# PowerShell
+*.psm1-e
+*.psd1-e
+
+# Yedekler
+Backup/
+
+# Sistem dosyaları
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ZIP
+*.zip
+*.7z
+*.rar
+
+# Visual Studio Code
+.vscode/
